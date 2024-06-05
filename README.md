@@ -1,24 +1,5 @@
 # Snake-and-ladder-game
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 #include<iostream>
 #include<conio.h>
 #include<stdlib.h>
